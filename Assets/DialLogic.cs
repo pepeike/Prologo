@@ -17,18 +17,23 @@ public class DialLogic : MonoBehaviour
         if (hit.collider != null && hit.collider.CompareTag("HitArea")) {
             Debug.Log("Hit Area Detected!");
             Destroy(hit.transform.gameObject);
-            FindFirstObjectByType<GameManager>().SpawnHitArea();
+            FindFirstObjectByType<GameManager>().ComputeHitRoutine(true, FindFirstObjectByType<GameManager>().currentPlayer.index);
+        } else {
+            Debug.Log("Missed!");
+            FindFirstObjectByType<GameManager>().ComputeHitRoutine(false, FindFirstObjectByType<GameManager>().currentPlayer.index);
         }
     }
 
     void MoveDial() {
+        dialSpeed = FindFirstObjectByType<GameManager>().currentPlayer.points + 6;
+        float dialFSpeed = (dialSpeed / 3f);
         if (movingRight) {
-            transform.Translate(Vector3.right * dialSpeed * Time.deltaTime);
+            transform.Translate(Vector3.right * dialFSpeed * Time.deltaTime);
             if (dialPoint.transform.position.x >= dialAreaWidth) {
                 movingRight = false;
             }
         } else {
-            transform.Translate(Vector3.left * dialSpeed * Time.deltaTime);
+            transform.Translate(Vector3.left * dialFSpeed * Time.deltaTime);
             if (dialPoint.transform.position.x <= -dialAreaWidth) {
                 movingRight = true;
             }
