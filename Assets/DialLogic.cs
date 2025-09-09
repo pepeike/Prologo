@@ -25,7 +25,7 @@ public class DialLogic : MonoBehaviour
     }
 
     void MoveDial() {
-        dialSpeed = FindFirstObjectByType<GameManager>().currentPlayer.points + 6;
+        dialSpeed = FindFirstObjectByType<GameManager>().currentPlayer.playerDialSpeed + 6;
         float dialFSpeed = (dialSpeed / 3f);
         if (movingRight) {
             transform.Translate(Vector3.right * dialFSpeed * Time.deltaTime);

@@ -255,7 +255,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Player 0:'
+  m_text: 'Player 2:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -368,6 +368,7 @@ MonoBehaviour:
   hitAreaPrefab: {fileID: 6599890626567453241, guid: 9f6711448de1eb24683c76ec9b43fa76, type: 3}
   score1: {fileID: 1503988773}
   score2: {fileID: 2128353174}
+  speedIncrement: 2
 --- !u!4 &371051528
 Transform:
   m_ObjectHideFlags: 0
