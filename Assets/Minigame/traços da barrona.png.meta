@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 764980b8e6a5a2447a13da15316fd338
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4039123076632119337
+    second: "tra\xE7os da barrona_0"
+  - first:
+      213: -7666484306742882181
+    second: "tra\xE7os da barrona_1"
+  - first:
+      213: 1621297576702820399
+    second: "tra\xE7os da barrona_2"
+  - first:
+      213: 1658396122124597616
+    second: "tra\xE7os da barrona_3"
+  - first:
+      213: -7651747485883221021
+    second: "tra\xE7os da barrona_4"
+  - first:
+      213: 7833469948719716644
+    second: "tra\xE7os da barrona_5"
+  - first:
+      213: -792383326889448334
+    second: "tra\xE7os da barrona_6"
+  - first:
+      213: -1334774493401654846
+    second: "tra\xE7os da barrona_7"
+  - first:
+      213: -295232336868860481
+    second: "tra\xE7os da barrona_8"
+  - first:
+      213: 2033727162967741549
+    second: "tra\xE7os da barrona_9"
+  - first:
+      213: -1203481446705206344
+    second: "tra\xE7os da barrona_10"
+  - first:
+      213: 4294823874384006498
+    second: "tra\xE7os da barrona_11"
+  - first:
+      213: 5623977042679805768
+    second: "tra\xE7os da barrona_12"
+  - first:
+      213: 432924652923545598
+    second: "tra\xE7os da barrona_13"
+  - first:
+      213: -804071149832488289
+    second: "tra\xE7os da barrona_14"
+  - first:
+      213: 8598364025836393926
+    second: "tra\xE7os da barrona_15"
+  - first:
+      213: -4697171413756944483
+    second: "tra\xE7os da barrona_16"
+  - first:
+      213: 4987480431188662708
+    second: "tra\xE7os da barrona_17"
+  - first:
+      213: -7190857128671326741
+    second: "tra\xE7os da barrona_18"
+  - first:
+      213: 8285203109685226986
+    second: "tra\xE7os da barrona_19"
+  - first:
+      213: -6495774738203743546
+    second: "tra\xE7os da barrona_20"
+  - first:
+      213: 5529888935624432595
+    second: "tra\xE7os da barrona_21"
+  - first:
+      213: 5458310091608399772
+    second: "tra\xE7os da barrona_22"
+  - first:
+      213: -8168229709128366324
+    second: "tra\xE7os da barrona_23"
+  - first:
+      213: 1297068881768850295
+    second: "tra\xE7os da barrona_24"
+  - first:
+      213: 7976780937377969461
+    second: "tra\xE7os da barrona_25"
+  - first:
+      213: 6713715415880140540
+    second: "tra\xE7os da barrona_26"
+  - first:
+      213: 6203806877735329175
+    second: "tra\xE7os da barrona_27"
+  - first:
+      213: 6728795819530885606
+    second: "tra\xE7os da barrona_28"
+  - first:
+      213: 216054990088430610
+    second: "tra\xE7os da barrona_29"
+  - first:
+      213: -3669752329168292621
+    second: "tra\xE7os da barrona_30"
+  - first:
+      213: 2746109700522793027
+    second: "tra\xE7os da barrona_31"
+  - first:
+      213: 2302377018345918920
+    second: "tra\xE7os da barrona_32"
+  - first:
+      213: -300564015918102651
+    second: "tra\xE7os da barrona_33"
+  - first:
+      213: 7340156189965657832
+    second: "tra\xE7os da barrona_34"
+  - first:
+      213: -5727881802472840506
+    second: "tra\xE7os da barrona_35"
+  - first:
+      213: 5770510432099284048
+    second: "tra\xE7os da barrona_36"
+  - first:
+      213: -1336053808260398460
+    second: "tra\xE7os da barrona_37"
+  - first:
+      213: -9071930184809763007
+    second: "tra\xE7os da barrona_38"
+  - first:
+      213: -3906011894410779050
+    second: "tra\xE7os da barrona_39"
+  - first:
+      213: -3447883590664645209
+    second: "tra\xE7os da barrona_40"
+  - first:
+      213: -6086745963309509086
+    second: "tra\xE7os da barrona_41"
+  - first:
+      213: -3082812735190122153
+    second: "tra\xE7os da barrona_42"
+  - first:
+      213: -8151252142132797252
+    second: "tra\xE7os da barrona_43"
+  - first:
+      213: -6175812632844787172
+    second: "tra\xE7os da barrona_44"
+  - first:
+      213: -770118777857918502
+    second: "tra\xE7os da barrona_45"
+  - first:
+      213: -2236846168038832391
+    second: "tra\xE7os da barrona_46"
+  - first:
+      213: 1638250938412796874
+    second: "tra\xE7os da barrona_47"
+  - first:
+      213: 892280662055345603
+    second: "tra\xE7os da barrona_48"
+  - first:
+      213: -4781544975262626966
+    second: "tra\xE7os da barrona_49"
+  - first:
+      213: 8851620858075199342
+    second: "tra\xE7os da barrona_50"
+  - first:
+      213: -5518196357774791331
+    second: "tra\xE7os da barrona_51"
+  - first:
+      213: -4421728730841552985
+    second: "tra\xE7os da barrona_52"
+  - first:
+      213: 1580916595309131348
+    second: "tra\xE7os da barrona_53"
+  - first:
+      213: 8851632292746375609
+    second: "tra\xE7os da barrona_54"
+  - first:
+      213: 6858830729324356377
+    second: "tra\xE7os da barrona_55"
+  - first:
+      213: -933259993203574523
+    second: "tra\xE7os da barrona_56"
+  - first:
+      213: -2600636552466962382
+    second: "tra\xE7os da barrona_57"
+  - first:
+      213: -3375472982558375260
+    second: "tra\xE7os da barrona_58"
+  - first:
+      213: -3656622438932419059
+    second: "tra\xE7os da barrona_59"
+  - first:
+      213: -1715120957870919924
+    second: "tra\xE7os da barrona_60"
+  - first:
+      213: 1386263556956711821
+    second: "tra\xE7os da barrona_61"
+  - first:
+      213: -2901963135605464
+    second: "tra\xE7os da barrona_62"
+  - first:
+      213: 3854541136655221309
+    second: "tra\xE7os da barrona_63"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_0"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9288dbab909dd0830800000000000000
+      internalID: 4039123076632119337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_1"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70db7c442d2b9590800000000000000
+      internalID: -7666484306742882181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_2"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c2965e81008610800000000000000
+      internalID: 1621297576702820399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_3"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0793f1c8c7ec30710800000000000000
+      internalID: 1658396122124597616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_4"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb31f8c3388fc590800000000000000
+      internalID: -7651747485883221021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_5"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429d2243a6316bc60800000000000000
+      internalID: 7833469948719716644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_6"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cefcaff83e005f0800000000000000
+      internalID: -792383326889448334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_7"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9da819bade97de0800000000000000
+      internalID: -1334774493401654846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_8"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd19baf0cf17ebf0800000000000000
+      internalID: -295232336868860481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_9"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6451ce5410493c10800000000000000
+      internalID: 2033727162967741549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_10"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbec5320006c4fe0800000000000000
+      internalID: -1203481446705206344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_11"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d868d0f874a9b30800000000000000
+      internalID: 4294823874384006498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_12"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847b1edb2516c0e40800000000000000
+      internalID: 5623977042679805768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_13"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef764089dae020600800000000000000
+      internalID: 432924652923545598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_14"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a3814ac8d57d4f0800000000000000
+      internalID: -804071149832488289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_15"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5d9718686835770800000000000000
+      internalID: 8598364025836393926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_16"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fd5e16c7b40deb0800000000000000
+      internalID: -4697171413756944483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_17"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b956310707173540800000000000000
+      internalID: 4987480431188662708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_18"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc5fe4a81f43c90800000000000000
+      internalID: -7190857128671326741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_19"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedefb4d454faf270800000000000000
+      internalID: 8285203109685226986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_20"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cae86caa4f5ad5a0800000000000000
+      internalID: -6495774738203743546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_21"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbd14730bc1ebc40800000000000000
+      internalID: 5529888935624432595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_22"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9f34eb10dfbb40800000000000000
+      internalID: 5458310091608399772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_23"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c078c9f4b5e94ae80800000000000000
+      internalID: -8168229709128366324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_24"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ab0b964d100210800000000000000
+      internalID: 1297068881768850295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_25"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535758feff733be60800000000000000
+      internalID: 7976780937377969461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_26"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf689969998eb2d50800000000000000
+      internalID: 6713715415880140540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_27"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d1a827c79581650800000000000000
+      internalID: 6203806877735329175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_28"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9954da52c716d50800000000000000
+      internalID: 6728795819530885606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_29"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214eb286ed49ff200800000000000000
+      internalID: 216054990088430610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_30"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4f24623bb621dc0800000000000000
+      internalID: -3669752329168292621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_31"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3485aed19342c1620800000000000000
+      internalID: 2746109700522793027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_32"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1188d13bfa3ff10800000000000000
+      internalID: 2302377018345918920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_33"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587cfe6be9e24dbf0800000000000000
+      internalID: -300564015918102651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_34"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6a9ca3a297dd560800000000000000
+      internalID: 7340156189965657832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_35"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2ae2829d97280b0800000000000000
+      internalID: -5727881802472840506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_36"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054b6fd1aa8f41050800000000000000
+      internalID: 5770510432099284048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_37"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c4ddd322657de0800000000000000
+      internalID: -1336053808260398460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_38"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f2543ef870a1280800000000000000
+      internalID: -9071930184809763007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_39"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656e13180ee0bc9c0800000000000000
+      internalID: -3906011894410779050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_40"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a519875428a620d0800000000000000
+      internalID: -3447883590664645209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_41"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226d4ea9bc8878ba0800000000000000
+      internalID: -6086745963309509086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_42"
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75141f99626a735d0800000000000000
+      internalID: -3082812735190122153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_43"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb068892d5fe0ee80800000000000000
+      internalID: -8151252142132797252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_44"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12aaeb912b1b4aa0800000000000000
+      internalID: -6175812632844787172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_45"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9bbe24d0dff45f0800000000000000
+      internalID: -770118777857918502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_46"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f60ad0f24025f0e0800000000000000
+      internalID: -2236846168038832391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_47"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb8b057c8c3cb610800000000000000
+      internalID: 1638250938412796874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_48"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd52cdd884026c00800000000000000
+      internalID: 892280662055345603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_49"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bcaefbd2a84adb0800000000000000
+      internalID: -4781544975262626966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_50"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67b204c54647da70800000000000000
+      internalID: 8851620858075199342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_51"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5daaf536ad6b63b0800000000000000
+      internalID: -5518196357774791331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_52"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7ec09852dd2a2c0800000000000000
+      internalID: -4421728730841552985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_53"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456bbe2744b80f510800000000000000
+      internalID: 1580916595309131348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_54"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1368b1ca057da70800000000000000
+      internalID: 8851632292746375609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_55"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91369eb65367f2f50800000000000000
+      internalID: 6858830729324356377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_56"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50974061bf46c03f0800000000000000
+      internalID: -933259993203574523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_57"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2386f4495dea8ebd0800000000000000
+      internalID: -2600636552466962382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_58"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a20ea5d439e721d0800000000000000
+      internalID: -3375472982558375260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_59"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ee5b1f341114dc0800000000000000
+      internalID: -3656622438932419059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_60"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fa64f639aa238e0800000000000000
+      internalID: -1715120957870919924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_61"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b697d3c5ffc3310800000000000000
+      internalID: 1386263556956711821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_62"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825a62e0ea0b5fff0800000000000000
+      internalID: -2901963135605464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tra\xE7os da barrona_63"
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d320776ddb41e7530800000000000000
+      internalID: 3854541136655221309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "tra\xE7os da barrona_0": 4039123076632119337
+      "tra\xE7os da barrona_1": -7666484306742882181
+      "tra\xE7os da barrona_10": -1203481446705206344
+      "tra\xE7os da barrona_11": 4294823874384006498
+      "tra\xE7os da barrona_12": 5623977042679805768
+      "tra\xE7os da barrona_13": 432924652923545598
+      "tra\xE7os da barrona_14": -804071149832488289
+      "tra\xE7os da barrona_15": 8598364025836393926
+      "tra\xE7os da barrona_16": -4697171413756944483
+      "tra\xE7os da barrona_17": 4987480431188662708
+      "tra\xE7os da barrona_18": -7190857128671326741
+      "tra\xE7os da barrona_19": 8285203109685226986
+      "tra\xE7os da barrona_2": 1621297576702820399
+      "tra\xE7os da barrona_20": -6495774738203743546
+      "tra\xE7os da barrona_21": 5529888935624432595
+      "tra\xE7os da barrona_22": 5458310091608399772
+      "tra\xE7os da barrona_23": -8168229709128366324
+      "tra\xE7os da barrona_24": 1297068881768850295
+      "tra\xE7os da barrona_25": 7976780937377969461
+      "tra\xE7os da barrona_26": 6713715415880140540
+      "tra\xE7os da barrona_27": 6203806877735329175
+      "tra\xE7os da barrona_28": 6728795819530885606
+      "tra\xE7os da barrona_29": 216054990088430610
+      "tra\xE7os da barrona_3": 1658396122124597616
+      "tra\xE7os da barrona_30": -3669752329168292621
+      "tra\xE7os da barrona_31": 2746109700522793027
+      "tra\xE7os da barrona_32": 2302377018345918920
+      "tra\xE7os da barrona_33": -300564015918102651
+      "tra\xE7os da barrona_34": 7340156189965657832
+      "tra\xE7os da barrona_35": -5727881802472840506
+      "tra\xE7os da barrona_36": 5770510432099284048
+      "tra\xE7os da barrona_37": -1336053808260398460
+      "tra\xE7os da barrona_38": -9071930184809763007
+      "tra\xE7os da barrona_39": -3906011894410779050
+      "tra\xE7os da barrona_4": -7651747485883221021
+      "tra\xE7os da barrona_40": -3447883590664645209
+      "tra\xE7os da barrona_41": -6086745963309509086
+      "tra\xE7os da barrona_42": -3082812735190122153
+      "tra\xE7os da barrona_43": -8151252142132797252
+      "tra\xE7os da barrona_44": -6175812632844787172
+      "tra\xE7os da barrona_45": -770118777857918502
+      "tra\xE7os da barrona_46": -2236846168038832391
+      "tra\xE7os da barrona_47": 1638250938412796874
+      "tra\xE7os da barrona_48": 892280662055345603
+      "tra\xE7os da barrona_49": -4781544975262626966
+      "tra\xE7os da barrona_5": 7833469948719716644
+      "tra\xE7os da barrona_50": 8851620858075199342
+      "tra\xE7os da barrona_51": -5518196357774791331
+      "tra\xE7os da barrona_52": -4421728730841552985
+      "tra\xE7os da barrona_53": 1580916595309131348
+      "tra\xE7os da barrona_54": 8851632292746375609
+      "tra\xE7os da barrona_55": 6858830729324356377
+      "tra\xE7os da barrona_56": -933259993203574523
+      "tra\xE7os da barrona_57": -2600636552466962382
+      "tra\xE7os da barrona_58": -3375472982558375260
+      "tra\xE7os da barrona_59": -3656622438932419059
+      "tra\xE7os da barrona_6": -792383326889448334
+      "tra\xE7os da barrona_60": -1715120957870919924
+      "tra\xE7os da barrona_61": 1386263556956711821
+      "tra\xE7os da barrona_62": -2901963135605464
+      "tra\xE7os da barrona_63": 3854541136655221309
+      "tra\xE7os da barrona_7": -1334774493401654846
+      "tra\xE7os da barrona_8": -295232336868860481
+      "tra\xE7os da barrona_9": 2033727162967741549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
