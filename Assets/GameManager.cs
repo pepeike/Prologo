@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using TMPro;
 using UnityEngine;
@@ -36,12 +37,16 @@ public class GameManager : MonoBehaviour
     public Player currentPlayer;
     public float speedIncrement;
 
+    public static event Action EndGameEvent;
+
+    public int pointsToWin;
+
     private void Awake() {
         yPosition = dialArea.transform.position.y;
     }
 
     void SelectNewPosition() {
-        xSpawnPosition = Random.Range(-xDiff, xDiff);
+        xSpawnPosition = UnityEngine.Random.Range(-xDiff, xDiff);
     }
 
     GameObject inst;
@@ -96,6 +101,26 @@ public class GameManager : MonoBehaviour
         currentPlayer = player1; // Player 1 começa
         SpawnHitArea();
         
+    }
+
+    private void Update() {
+        if (player1.points >= pointsToWin) {
+            EndGame(player1.index);
+        } else if (player2.points >= pointsToWin) {
+            EndGame(player2.index);
+        }
+    }
+
+    public void EndGame(PlayerIndex index) {
+        switch (index) {
+            case PlayerIndex.Player1:
+                Debug.Log("Player 1 Wins!");
+                break;
+            case PlayerIndex.Player2:
+                Debug.Log("Player 2 Wins!");
+                break;
+        }
+        EndGameEvent?.Invoke();
     }
 
 }
