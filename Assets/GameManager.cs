@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public enum PlayerIndex {
     Player1,
@@ -129,6 +130,9 @@ public class GameManager : MonoBehaviour
                 break;
         }
         EndGameEvent?.Invoke();
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
     }
 
 }

@@ -507,7 +507,7 @@ MonoBehaviour:
   minX: -3.2
   maxX: 3.2
   xStep: 0.11
-  pointsToWin: 5
+  pointsToWin: 10
 --- !u!4 &371051528
 Transform:
   m_ObjectHideFlags: 0
