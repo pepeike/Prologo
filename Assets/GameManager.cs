@@ -37,6 +37,10 @@ public class GameManager : MonoBehaviour
     public Player currentPlayer;
     public float speedIncrement;
 
+    public float minX;
+    public float maxX;
+    public float xStep;
+
     public static event Action EndGameEvent;
 
     public int pointsToWin;
@@ -46,7 +50,11 @@ public class GameManager : MonoBehaviour
     }
 
     void SelectNewPosition() {
-        xSpawnPosition = UnityEngine.Random.Range(-xDiff, xDiff);
+        int steps = Mathf.RoundToInt((maxX - minX) / xStep) + 1;
+        int randomStep = UnityEngine.Random.Range(0, steps);
+
+        
+        xSpawnPosition = minX + randomStep * xStep;
     }
 
     GameObject inst;

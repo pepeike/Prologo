@@ -10,7 +10,7 @@ public class DialLogic : MonoBehaviour
     
 
     public float dialSpeed = 1f;
-    private float dialAreaWidth = 5f;
+    public float dialAreaWidth;
     private bool movingRight = true;
     public InputAction hitAction1;
     public InputAction hitAction2;
